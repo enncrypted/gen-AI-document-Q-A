@@ -11,7 +11,7 @@ load_dotenv()
 
 # Page configuration
 st.set_page_config(
-    page_title="Document Intelligence & Q&A AI",
+    page_title="Gen AI Document Intelligence & Q&A",
     page_icon="📄",
     layout="wide",
     initial_sidebar_state="expanded"
